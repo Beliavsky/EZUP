@@ -1,5 +1,5 @@
 # EZUP
-August Miller's tool to convert Fortran fixed source form to free source form to be compatible with ELF90. 
+August Miller's tool to convert Fortran fixed source form to free source form to be compatible with [ELF90](http://www.lahey.com/elfpage.htm). 
 Compile the tool with 
 
 `gfortran rencom.f90 all.f90`
